@@ -1,3 +1,3 @@
 # PHP_WITH_CLASS_EXAMPLE
-Okey I will be short. My name is Nikola Brodar and I have put here some example of how to fill, make HTML table from MySQL database. 
+Here I have put some example of how to fill, make HTML table from MySQL database. I use prepared execute PHP statement and PHP Class 
  solution of task
